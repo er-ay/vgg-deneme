@@ -1,0 +1,9 @@
+Downloading data from https://storage.googleapis.com/download.tensorflow.org/data/imagenet_class_index.json
+40960/35363 [==================================] - 2s 38us/step
+Prediction: [[('n02481823', 'chimpanzee', 0.89908147), 
+		('n02480855', 'gorilla', 0.059549868), 
+		('n02483708', 'siamang', 0.039113842), 
+		('n02493793', 'spider_monkey', 0.0017318856), 
+		('n02492660', 'howler_monkey', 0.00024398205)]]
+
+Model görüntüdeki nesneyi en yüksek olasılıkla 89.9% şempanze olarak tanıdı.
